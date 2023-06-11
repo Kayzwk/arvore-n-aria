@@ -1,0 +1,95 @@
+{
+  "name": "Sol",
+  "children": [
+    {
+      "name": "Mercúrio"
+    },
+    {
+      "name": "Vênus"
+    },
+    {
+      "name": "Terra",
+      "children": [
+        {
+          "name": "Lua"
+        }
+      ]
+    },
+    {
+      "name": "Marte",
+      "children": [
+        {
+          "name": "Fobos"
+        },
+        {
+          "name": "Deimos"
+        }
+      ]
+    },
+    {
+      "name": "Júpiter",
+      "children": [
+        {
+          "name": "Io"
+        },
+        {
+          "name": "Europa"
+        },
+        {
+          "name": "Ganimedes"
+        },
+        {
+          "name": "Calisto"
+        }
+      ]
+    },
+    {
+      "name": "Saturno",
+      "children": [
+        {
+          "name": "Mimas"
+        },
+        {
+          "name": "Encélado"
+        },
+        {
+          "name": "Tétis"
+        },
+        {
+          "name": "Dione"
+        },
+        {
+          "name": "Reia"
+        },
+        {
+          "name": "Titã"
+        },
+        {
+          "name": "Jápeto"
+        }
+      ]
+    },
+    {
+      "name": "Urano",
+      "children": [
+        {
+          "name": "Titânia"
+        },
+        {
+          "name": "Oberon"
+        }
+      ]
+    },
+    {
+      "name": "Netuno",
+      "children": [
+        {
+          "name": "Tritão"
+        },
+        {
+          "name": "Nereida"
+        }
+      ]
+    }
+  ]
+}
