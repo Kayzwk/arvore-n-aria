@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 Você pode acessar: 
 
-- O código fonte index.py principal [aqui]((https://github.com/Kayzwk/arvore-n-aria/blob/main/index.py));<br>
+- O código fonte index.py principal [aqui](https://github.com/Kayzwk/arvore-n-aria/blob/main/index.py);<br>
 - O código do arquivo de inicialização .json [aqui](https://github.com/Kayzwk/arvore-n-aria/blob/main/dist/test.json);<br>
 - A pasta dist com os executáveis [aqui](https://github.com/Kayzwk/arvore-n-aria/tree/main/dist).
 
