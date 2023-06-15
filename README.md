@@ -15,7 +15,7 @@ Projeto desenvolvido na disciplina de Estrutura de Dados, no curso de Controle e
 
 O trabalho consiste em um código simples, feito em Python, que simula a construção do Sistema Solar a partir de uma árvore n-ária, onde o Sol é a raiz da árvore, os planetas seus filhos e, como filhos dos planetas ou, melhor dizendo, as folhas da árvore, suas respectivas luas.
 
-O conjunto foi realizado apenas para demonstrar uma aplicação qualqueer de programação de uma árvore n-ária, e dentro dele foi desenvolvido um arquivo para a inicialização de dados em .JSON e dois makefiles, sendo um para Linux e outro para Windows.
+O conjunto foi realizado apenas para demonstrar uma aplicação qualqueer de programação de uma árvore n-ária, e dentro dele foi desenvolvido um arquivo para a inicialização de dados em .JSON e um executável para Windows.
 
 ## Pré-requisitos
 
@@ -31,7 +31,7 @@ Você pode acessar:
 
 - O código fonte index.py principal [aqui](https://github.com/Kayzwk/arvore-n-aria/blob/main/index.py);<br>
 - O código do arquivo de inicialização .json [aqui](https://github.com/Kayzwk/arvore-n-aria/blob/main/dist/test.json);<br>
-- A pasta dist com os executáveis [aqui](https://github.com/Kayzwk/arvore-n-aria/tree/main/dist).
+- A pasta dist com o executável [aqui](https://github.com/Kayzwk/arvore-n-aria/tree/main/dist).
 
 Demais informações, conferir na [página inicial](https://github.com/Kayzwk/arvore-n-aria/tree/main).
 
